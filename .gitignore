@@ -1,0 +1,4 @@
+*.exe
+*.log
+!geckodriver.exe
+!name1.csv
